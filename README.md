@@ -1,7 +1,5 @@
 # GIZ-Anti-Corruption-Training
-Let's create a detailed written report based on the analysis. Here is the full report:
 
----
 
 # Data Analysis Report
 
