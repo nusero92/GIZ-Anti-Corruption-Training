@@ -1,7 +1,5 @@
-# GIZ-Anti-Corruption-Training
+# GIZ-Anti-Corruption-Training Report
 
-
-# Data Analysis Report
 
 ## Data Overview
 
